@@ -1,0 +1,3 @@
+include ':tencry'
+include ':app'
+rootProject.name = "TEncry"
